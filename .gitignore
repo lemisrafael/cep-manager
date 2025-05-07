@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
